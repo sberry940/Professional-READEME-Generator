@@ -6,8 +6,8 @@
   ## Deployed Application URL
   
   ## Screenshot
-  ![alt-text](![image](https://github.com/sberry940/Professional-READEME-Generator/assets/148163787/0db29f46-a25e-454a-8b1f-2042803bab9f))
-  
+ ![image](https://github.com/sberry940/Professional-READEME-Generator/assets/148163787/8faf7772-611c-402e-980e-1c1f7ea91fd6)
+ 
   ## Features
   Easy to follow template
   ## Languages & Dependencies
